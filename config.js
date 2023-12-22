@@ -11,8 +11,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a para GataBot-MD | Add the numbers to be Owner for GataBot-MD ⋅.━━━━ ⊰  
 
 global.owner = [
-["5492266466080", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
-["573026191480", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 𝙂𝘽 💖🐈', true], 
+["15106295223", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+["584242471275", '𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 𝙂𝘽 💖🐈', true], 
 ["5492266466080"], 
 ["593968585383"], 
 ["5492266613038"],
@@ -30,7 +30,7 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["528451003894"]
+global.prems = ["584242471275"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
